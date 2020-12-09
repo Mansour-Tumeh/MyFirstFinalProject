@@ -1,5 +1,5 @@
 function run() {
 
-    console.log('Program is running');
+    console.log('start the running');
 }
 run();
