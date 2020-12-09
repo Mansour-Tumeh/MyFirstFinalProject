@@ -1,5 +1,11 @@
 function run() {
 
-    console.log('start the running');
+    console.log('stasdadart the running');
+    showTime();
 }
+
+function showTime() {
+    console.log(new Date().toDateString());
+}
+
 run();
