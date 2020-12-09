@@ -1,6 +1,6 @@
 function run() {
 
-    console.log('stasdadart the running');
+    console.log('start the running');
     showTime();
 }
 
