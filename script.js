@@ -1,4 +1,5 @@
 function run() {
 
-    console.log('PROGRAM IN OPERATION');
+    console.log('start the running');
 }
+run();
