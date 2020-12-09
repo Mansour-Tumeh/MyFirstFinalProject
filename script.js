@@ -1,4 +1,4 @@
 function run() {
 
-    console.log('Program is running');
+    console.log('PROGRAM IN OPERATION');
 }
